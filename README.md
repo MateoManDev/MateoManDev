@@ -46,14 +46,4 @@ Mi meta es adquirir experiencia práctica y colaborar en proyectos que impacten.
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MateoManDev&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="MateoManDev GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateoManDev&theme=dracula&hide_border=true" alt="MateoManDev GitHub Streak" />
-</div>
-
----
-
-
 <br>
