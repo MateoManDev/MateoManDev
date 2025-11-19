@@ -8,7 +8,7 @@
 
 ## 👋 ¡Hola! Soy MateoManDev 🚀
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes-VE%2Fsearch%2Fcoding-gifs&psig=AOvVaw05n0wY4WUpDZv3cGwcWOaS&ust=1763677904582000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj6l6yi_5ADFQAAAAAdAAAAABAE" alt="" width="100%">
+<img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="" width="100%">
 
 ---
 
