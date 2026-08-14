@@ -2,9 +2,9 @@
 
 # 👋 ¡Hola! Soy MateoManDev 🚀
 
-### 💻 Desarrollador Web Full-Stack en Formación | Explorando el Universo Digital
+### 💻 Desarrollador Web Full-Stack en Formación
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matmansilla1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](href:"https://mail.google.com/mail/?view=cm&fs=1&to=matmansilla1@gmail.com")
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MateoManDev)
 
 </div>
@@ -49,19 +49,7 @@ Sistema interactivo desarrollado para la gestión de logística.
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MateoManDev&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de Mateo" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoManDev&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="45%" />
-
-</div>
-
----
-
 ### 🌱 Mi Objetivo
 
-> 🎯 Mi meta es seguir adquiriendo experiencia práctica, aportar en proyectos desafiantes y colaborar con la comunidad. 
-> 
-> 💬 **¿Quieres conversar sobre desarrollo o colaborar?** ¡Siénte libre de escribirme!
+> 🎯 Mi meta es seguir adquiriendo experiencia práctica, aportar en proyectos.
+
