@@ -1,46 +1,67 @@
-
-
-<br>
-
-## 👋 ¡Hola! Soy MateoManDev 🚀
-
-<img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="" width="25%">
 <div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matmansilla1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+
+# 👋 ¡Hola! Soy MateoManDev 🚀
+
+### 💻 Desarrollador Web Full-Stack en Formación | Explorando el Universo Digital
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MateoManDev)
+
 </div>
+
 ---
 
-### 💻 Desarrollador Web en Formación | Explorando el Universo Digital
+### 🧑‍💻 Sobre mí
 
-Soy **Mateo**, un estudiante de **Desarrollo Web**. Actualmente estoy inmerso en el mundo del frontend y backend, construyendo mis bases para convertirme en un desarrollador full-stack.
+Soy **Mateo**, apasionado por el desarrollo web y la tecnología. Actualmente estoy enfocado en fortalecer mis bases de **Frontend y Backend**, creando aplicaciones dinámicas y escalables mientras sigo sumando mejores prácticas al código.
+
+---
+
+### 🚀 Proyecto Destacado
+
+<div align="center">
+
+### 📦 Logistics Management System
+Sistema interactivo desarrollado para la gestión de logística.
+
+[![Ver Demo en Vivo](https://img.shields.io/badge/🌐_Demo_en_Vivo-Ver_Aplicación-2ea44f?style=for-the-badge&logo=github-pages&logoColor=white)](https://mateomansilladev.github.io/Logistics-Management-System/#MENU)
+
+</div>
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-Aquí están algunas de las tecnologías con las que estoy trabajando y aprendiendo:
+#### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
-</p>
+#### 🧰 Herramientas & Entorno
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MateoManDev&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de Mateo" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoManDev&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="45%" />
+
+</div>
 
 ---
 
 ### 🌱 Mi Objetivo
 
-Mi meta es adquirir experiencia práctica y colaborar en proyectos.
-
----
-
-<br>
+> 🎯 Mi meta es seguir adquiriendo experiencia práctica, aportar en proyectos desafiantes y colaborar con la comunidad. 
+> 
+> 💬 **¿Quieres conversar sobre desarrollo o colaborar?** ¡Siénte libre de escribirme!
