@@ -4,7 +4,7 @@
 
 ### 💻 Desarrollador Web Full-Stack en Formación | Explorando el Universo Digital
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matmansilla1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MateoManDev)
 
 </div>
@@ -24,7 +24,7 @@ Soy **Mateo**, apasionado por el desarrollo web y la tecnología. Actualmente es
 ### 📦 Logistics Management System
 Sistema interactivo desarrollado para la gestión de logística.
 
-[![Ver Demo en Vivo](https://img.shields.io/badge/🌐_Demo_en_Vivo-Ver_Aplicación-2ea44f?style=for-the-badge&logo=github-pages&logoColor=white)](https://mateomansilladev.github.io/Logistics-Management-System/#MENU)
+[![Ver Demo en Vivo](https://img.shields.io/badge/🌐_Demo_en_Vivo-Ver_Aplicación-2ea44f?style=for-the-badge&logo=github-pages&logoColor=white)](https://mateomansilladev.github.io/Logistics-Management-System/)
 
 </div>
 
