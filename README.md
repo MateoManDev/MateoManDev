@@ -1,15 +1,15 @@
-<div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matmansilla1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
+
 
 <br>
 
 ## 👋 ¡Hola! Soy MateoManDev 🚀
 
 <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="" width="25%">
-
+<div align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matmansilla1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 ---
 
 ### 💻 Desarrollador Web en Formación | Explorando el Universo Digital
